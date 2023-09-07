@@ -22,5 +22,5 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Decay": 
+    "hep-ex": 
         filters: ["Decay", "Asymmetry","Parameter","Branch"]
