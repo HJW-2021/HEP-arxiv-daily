@@ -22,5 +22,5 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Charm": 
-        filters: ["Decay", "Asymmetry","Parameter"]
+    "Parameter": 
+        filters: ["Decay", "Asymmetry","Parameter","Branch"]
